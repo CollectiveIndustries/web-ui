@@ -1,4 +1,4 @@
-web-ui
+Web-UI
 ======
 code written by Levi Modl
 copyright (c) Collective Industries 2014
