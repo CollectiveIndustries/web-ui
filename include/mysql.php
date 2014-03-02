@@ -6,15 +6,8 @@
 *							     							   *
 ***************************************************************/
 
-//connection variables
-
-//TODO create db_con.sql for auto-gen with ci-mangos-install.py
-$user='root';
-$pass='123qwe';
-$addy='localhost';
-$world='mangos-ci-world-serenity';
-$table='account';
-$account='mangos-ci-account';
+//connection variables these are generated with the CI-Mangos Installer
+include './db_con.php'
 
 //server connection
 $mysql=mysql_connect($addy,$user,$pass) or die("Could not connect to MySQL: ".mysql_error());
