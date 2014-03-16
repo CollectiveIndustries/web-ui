@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/server
+END
+server.playersonline.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/server/server.playersonline.php
+END
+server.realmstatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/server/server.realmstatus.php
+END
+server.index.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/server/server.index.php
+END
+server.statistic.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/server/server.statistic.php
+END
+server.info.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/server/server.info.php
+END
+server.chars.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/server/server.chars.php
+END
+server.topkills.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/server/server.topkills.php
+END
+server.commands.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/server/server.commands.php
+END

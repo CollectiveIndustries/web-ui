@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1/trunk/%20skyfireweb/install/sql
+END
+delete_v2_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/trunk/%20skyfireweb/install/sql/delete_v2_tables.sql
+END
+full_install.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/trunk/%20skyfireweb/install/sql/full_install.sql
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/trunk/%20skyfireweb/install/sql/index.html
+END

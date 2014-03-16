@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1/trunk/%20skyfireweb/install
+END
+php.ini
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/trunk/%20skyfireweb/install/php.ini
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1/trunk/%20skyfireweb/install/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1/trunk/%20skyfireweb/install/index.php
+END

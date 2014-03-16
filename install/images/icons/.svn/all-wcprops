@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/trunk/%20skyfireweb/install/images/icons
+END
+warning.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/trunk/%20skyfireweb/install/images/icons/warning.png
+END
+success.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/trunk/%20skyfireweb/install/images/icons/success.png
+END
+error.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1/trunk/%20skyfireweb/install/images/icons/error.png
+END
+validation.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/trunk/%20skyfireweb/install/images/icons/validation.png
+END
+info.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/trunk/%20skyfireweb/install/images/icons/info.png
+END

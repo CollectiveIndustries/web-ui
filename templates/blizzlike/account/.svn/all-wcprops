@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/account
+END
+account.mytransactions.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/account/account.mytransactions.php
+END
+account.activate.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/account/account.activate.php
+END
+account.racechange.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/account/account.racechange.php
+END
+account.customize.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/account/account.customize.php
+END
+account.restore.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/account/account.restore.php
+END
+account.register.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/account/account.register.php
+END
+account.index.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/account/account.index.php
+END
+account.rename.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/account/account.rename.php
+END
+account.login.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/account/account.login.php
+END
+account.manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/account/account.manage.php
+END
+account.factionchange.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/trunk/%20skyfireweb/templates/blizzlike/account/account.factionchange.php
+END

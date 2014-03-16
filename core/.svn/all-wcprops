@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1/trunk/%20skyfireweb/core
+END
+class.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1/trunk/%20skyfireweb/core/class.config.php
+END
+class.template.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/trunk/%20skyfireweb/core/class.template.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/trunk/%20skyfireweb/core/index.html
+END
+class.update.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1/trunk/%20skyfireweb/core/class.update.php
+END
+class.database.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/trunk/%20skyfireweb/core/class.database.php
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1/trunk/%20skyfireweb/core/core.php
+END
+common.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/trunk/%20skyfireweb/core/common.php
+END
